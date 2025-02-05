@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "vite",
+    "template",
+    "react",
+    "typescript",
+    "javascript",
+    "eslint",
+    "prettier"
+  ],
+  "author": "Ricardo Trejo Sanjuan",
+  "license": "ISC",
+  "description": "Vite Template",
+  "devDependencies": {
+    "fs-extra": "^11.3.0",
+    "rimraf": "^6.0.1",
+    "prompt": "^1.3.0",
+    "yargs": "^17.7.2"
+  }
+}

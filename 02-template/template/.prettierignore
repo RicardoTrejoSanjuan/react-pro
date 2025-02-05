@@ -1,0 +1,10 @@
+dist
+node_modules
+coverage
+.husky
+*.xml
+README.md
+tsconfig.app.json
+tsconfig.json
+eslint.config.js
+.editorconfig
